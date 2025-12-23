@@ -1,0 +1,10 @@
+spotipy
+pandas
+numpy
+scikit-learn
+plotly
+dash
+flask
+requests
+kafka-python
+python-dotenv
